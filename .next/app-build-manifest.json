@@ -1,0 +1,101 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/app/_not-found/page-a8c4ecca5cc9402d.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/css/cd22a58384b9c1a9.css",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/766-af082b0404617dbd.js",
+      "static/chunks/app/layout-5942143ea484685c.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/766-af082b0404617dbd.js",
+      "static/chunks/app/about/page-72a02d7b2ebf6008.js"
+    ],
+    "/gallery/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/766-af082b0404617dbd.js",
+      "static/chunks/app/gallery/page-d2d6db5b4189e882.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/766-af082b0404617dbd.js",
+      "static/chunks/app/page-5942ebbd27d9d52a.js"
+    ],
+    "/products/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/766-af082b0404617dbd.js",
+      "static/chunks/app/products/page-56bab3d53204e91e.js"
+    ],
+    "/products/robotic-welding/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/766-af082b0404617dbd.js",
+      "static/chunks/app/products/robotic-welding/page-d2eef882204a5167.js"
+    ],
+    "/products/welding-accessories/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/766-af082b0404617dbd.js",
+      "static/chunks/app/products/welding-accessories/page-59b95ebd2c73d8e8.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/app/contact/page-bb1208aa9933a704.js"
+    ],
+    "/products/welding-equipment/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/766-af082b0404617dbd.js",
+      "static/chunks/app/products/welding-equipment/page-23d9ecd765f10fa7.js"
+    ],
+    "/products/welding-spm/page": [
+      "static/chunks/webpack-350252fd2ab1ea1d.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-2643cdc47449fdbf.js",
+      "static/chunks/main-app-594d895df55da8f0.js",
+      "static/chunks/874-fee5c5fe0f63a060.js",
+      "static/chunks/766-af082b0404617dbd.js",
+      "static/chunks/app/products/welding-spm/page-2ec613e1fc677cca.js"
+    ]
+  }
+}
